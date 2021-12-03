@@ -947,8 +947,12 @@ footer div {
 		height: 138px;
 	}
 
-	.bonuses form {
-		width: 95%;
+	.bonuses > h2,p {
+		width: 90%;
+	}
+
+	.bonuses form input {
+		padding-left: 5%;
 	}
 
 	footer {
